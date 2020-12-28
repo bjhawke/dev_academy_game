@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: pixelatte
-  m_Shader: {fileID: 4800000, guid: 796dd381b279441cbb87649a63978da6, type: 3}
+  m_Shader: {fileID: 4800000, guid: 7d18eddc9fd4f4dee89c9fec6d46274f, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
